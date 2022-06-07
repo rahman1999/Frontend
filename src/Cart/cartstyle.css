@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    color: darkblue;
+}
+.product{
+    text-align: center;
+}
+h3{
+    text-align: center;
+    color:darkred
+}
+.button1 {padding: 5px 20px;}
+.button2 {padding: 5px 2px;float: right;}
